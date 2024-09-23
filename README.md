@@ -76,7 +76,7 @@ Getting Started
 Clone the Repository: Download the repository to explore the dataset and analyses.
 bash
 Copy code
-git clone https://github.com/yourusername/uber-trip-analysis.git
+git clone https://github.com/IAMJAYENTSPARIHAR/uber-trip-analysis.git
 Explore the Data: Load the dataset and examine its contents.
 Choose an Analysis Type: Choose from the various types of analysis listed above or create your custom analysis.
 Tools and Libraries
